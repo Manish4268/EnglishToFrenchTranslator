@@ -63,8 +63,6 @@ A full list of academic references and resources is provided in the accompanying
 
 ## 👨‍💻 Contributors
 
-- **Ajaykumar Premkumar Nair** — B00968276  
-  ✉️ ajay.nair@dal.ca
 
 - **Manish Shankar Jadhav** — B00969328  
   ✉️ mn649712@dal.ca
